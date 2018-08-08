@@ -1,7 +1,0 @@
-Accept-Language: en
-Accept-Encoding: gzip,deflate
-Accept: application/json, text/javascript, */*; q=0.01
-User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
-X-Requested-With: XMLHttpRequest
-Referer: https://www.boletinoficial.gob.ar/
-Content-Type: application/x-www-form-urlencoded; charset=UTF-8

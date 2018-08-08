@@ -1,8 +1,0 @@
-X-Xss-Protection: 1; mode=block
-X-Powered-By: PHP/5.4.45-0+deb7u8
-Set-Cookie: BORA=170463498.20480.0000; path=/
-Set-Cookie: TS01d76151=0148a1cd48032249ff5a4e85f3be964c7ae5d1bf85f0610bbfe8253a248e3273239b452f0e7bec02ece2410597973d54b577ce74210ad0becfc03e06259ac785a9845416f2; Path=/
-Cache-Control: no-cache
-Date: Wed, 08 Aug 2018 22:09:35 GMT
-X-Frame-Options: sameorigin
-Content-Type: application/json
