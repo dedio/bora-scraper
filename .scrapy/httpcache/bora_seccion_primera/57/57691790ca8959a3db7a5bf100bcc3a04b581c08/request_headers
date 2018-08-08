@@ -1,0 +1,8 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+X-Requested-With: XMLHttpRequest
+Cookie: TS01d76151=0148a1cd48887fca0e435fe467af7774b08b4b93b3f0610bbfe8253a248e3273239b452f0e7bec02ece2410597973d54b577ce74211ef4d52361f71ed62b0e4cf4f6c09834; BORA=170463498.20480.0000
+Referer: https://www.boletinoficial.gob.ar/
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
